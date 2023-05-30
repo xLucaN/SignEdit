@@ -1,0 +1,6 @@
+name: SignEditor
+author: xLucaN
+version: 1.0
+main: de.xlucan.main.Main
+commands:
+   signedit:
